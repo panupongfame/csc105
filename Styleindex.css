@@ -1,0 +1,47 @@
+@font-face
+{
+    font-family: 'Franklin Gothic Heavy';
+    src: url('font/FRAHV');
+}
+@font-face
+{
+    font-family: 'PSL Kittithada';
+    src:url('font/psl094');
+}
+
+a
+{
+
+    text-decoration:none;
+}
+body
+{
+    background-color: #7C4298;
+}
+body a
+{
+    
+    font-family:Arial;
+    color: white;
+
+    
+}
+body h2
+{
+    text-align:right;
+    font-family:Arial;
+    color: white;
+
+}
+body h1,p
+{
+    color :#F1C40F  ;
+    text-align:center;
+    font-family:Franklin Gothic Heavy;
+    font-size:150px;
+}
+body h3
+{
+    text-align: center;
+}
+
